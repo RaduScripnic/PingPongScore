@@ -1,0 +1,23 @@
+body{
+	background-color: blueviolet;
+}
+.winner{
+	color: chartreuse;
+}
+.looser{
+	color: red;
+}
+#p1Button {
+	background-color: skyblue;
+	color: royalblue;
+}
+#p2Button {
+	background-color: skyblue;
+	color: royalblue;
+}
+#reset {
+	background-color: skyblue;
+}
+#playto{
+	background-color: magenta;
+}
